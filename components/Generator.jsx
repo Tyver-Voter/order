@@ -369,6 +369,10 @@ function Generator({ configuration }) {
 					Ballot is formal.
 				</p>
 			}
+			<strong className="printable">
+				<p>This is <em>NOT</em> a recommendation on how to vote.</p>
+				<p>The actual ballot layout and order may <em>NOT</em> match this ballot guide - you must check your actual ballot paper before you vote.</p>
+			</strong>
 			<div className="printable ballot pre-line">
 				<table>
 					<tbody>
@@ -412,10 +416,10 @@ function Generator({ configuration }) {
 					</tbody>
 				</table>
 			</div>
-			<footer className="printable printonly">
-				<p>Ballot guide generated with the help of Tyver Order: <a href="https://tyver.nhan.au/order/">tyver.nhan.au/order/</a></p>
-				<p>This ballot guide reflects the order of preferences determined by the user. It is not a recommendation by Tyver Order on how to vote.</p>
-			</footer>
+			<div className="printable">
+				<p>Ballot guide generated with the help of Tyver Order: <a href="https://tyver.nhan.au/order">tyver.nhan.au/order</a></p>
+				<p>This ballot guide reflects the order of preferences determined by the user.</p>
+			</div>
 			
 			<footer><hr />Site by <a href="https://nhan.au">Nhan</a>.</footer>
 		</>

@@ -69,10 +69,6 @@ td b {
 		display: none;
 	}
 
-	.printonly, .printonly * {
-		display: revert;
-	}
-
 	table {
 		margin-right: 10px;
 	}
