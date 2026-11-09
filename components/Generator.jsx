@@ -279,6 +279,7 @@ function Generator({ configuration }) {
 	return (
 		<>
 			<h1 className="printable">{configuration.title}</h1>
+			<p>Drag from the Unranked candidates box and drop into the the Preference order box.</p>
 			<DndContext
 				sensors={sensors}
 				onDragEnd={handleDragEnd}
@@ -323,7 +324,7 @@ function Generator({ configuration }) {
 					</SortableColumn>
 				</div>
 			</DndContext>
-			<p>Generated ballot guide below! Use the print dialog in landscape layout to print a paper copy or save a PDF to your device - you may need to decrease the scale or increase the paper size to fit the whole ballot guide.</p>
+			<p>Generated ballot guide below! Use the print dialog in portrait or landscape layout to print a paper copy or save a PDF to your device - you may need to decrease the scale or increase the paper size to fit the whole ballot guide.</p>
 			<button
 				onClick={print}
 				disabled={formality==="INFORMAL"}

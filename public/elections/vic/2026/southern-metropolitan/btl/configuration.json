@@ -1,0 +1,62 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - Southern Metropolitan - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A Australian Labor Party": [
+			"BERGER, John",
+			"CRAWFORD, Louise",
+			"WILLS, Virginia",
+			"DOUCH, Gavin",
+			"COLE, Philip"
+		],
+		"B Australian Democrats": [
+			"JACKSON, Clive",
+			"BROADBRIDGE, Philip"
+		],
+		"C Legalise Cannabis Victoria": [
+			"PAWLACZEK, Zofia",
+			"HOWMAN, Ben"
+		],
+		"D One Nation Victoria": [
+			"SANFORD, Aaron",
+			"KAULENAS, Kristina"
+		],
+		"E Family First": [
+			"FOREMAN, Jane",
+			"PATON, Tom"
+		],
+		"F Liberal": [
+			"DAVIS, David",
+			"CROZIER, Georgie",
+			"BOFFA, Xavier",
+			"BELL, Jamie",
+			"PERERA, Jasmine"
+		],
+		"G Victorian Socialists": [
+			"HOLDER, Catherine",
+			"WORSLEY, April"
+		],
+		"H Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"TERRY, Bettina",
+			"BAIRD, Linda"
+		],
+		"I Labour DLP": [
+			"ZMEGAC, Karla",
+			"DEAN, Paul"
+		],
+		"J Unnamed-1": [
+			"LOWE, Melissa",
+			"NESS, Jess"
+		],
+		"K The Greens": [
+			"COPSEY, Katherine",
+			"IAMPOLSKI, Rachel",
+			"KISSUBI, Jeffrey",
+			"SAMIOTIS, Kim",
+			"WEAVER, Joshua"
+		]
+	},
+	"ungrouped": []
+}

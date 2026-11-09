@@ -1,0 +1,74 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - Northern Victoria - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A Citizens Party": [
+			"LAHY, Chris",
+			"DAVY, Jeff"
+		],
+		"B Unnamed-1": [
+			"WHITE, Kate",
+			"GREEN, Alex"
+		],
+		"C Australian Labor Party": [
+			"SYMES, Jaclyn",
+			"SARANTIS, Jana",
+			"BRIDGES, Mitch",
+			"GAYFER, Natasha",
+			"OLSEN, Greg"
+		],
+		"D Family First": [
+			"MCCORMACK, Chris",
+			"KEETELAAR, Ev"
+		],
+		"E Shooters, Fishers and Farmers Party Victoria": [
+			"CONSTANTINOU, Ethan",
+			"ASHBY, Geoff"
+		],
+		"F Labour DLP": [
+			"VAN DORSSEN, Chae",
+			"DE WIT, Sophie"
+		],
+		"G Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"READ, Paul",
+			"BLACKER, Cheryl"
+		],
+		"H One Nation Victoria": [
+			"TYRRELL, Rikkie-Lee",
+			"THOMAS, Athol",
+			"SORENSEN, Luke"
+		],
+		"I Animal Justice Party": [
+			"PURCELL, Georgie",
+			"LEVY, Laurie"
+		],
+		"J Liberal / The Nationals": [
+			"BROOKS, Steve",
+			"BROAD, Gaelle",
+			"MILLAR, Amanda",
+			"MULLER, Chad",
+			"HEARN, Brad"
+		],
+		"K The Greens": [
+			"SINCLAIR, Cate",
+			"MADDOCK, Lucas",
+			"MIKELSONS, Wil",
+			"ROBINSON, Helen",
+			"BRIGHT, Samantha"
+		],
+		"L Legalise Cannabis Victoria": [
+			"TAYLOR, Wayne",
+			"WILLIAMS, Scott"
+		],
+		"M Victorian Socialists": [
+			"LAMOND, Dorothy",
+			"TYLER, Rohan"
+		],
+		"N Ungrouped": [
+			"McHUGH, Nick"
+		]
+	},
+	"ungrouped": []
+}

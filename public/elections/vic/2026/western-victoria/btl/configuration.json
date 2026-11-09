@@ -1,0 +1,85 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - Western Victoria - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A The Greens": [
+			"MANSFIELD, Sarah",
+			"COATES, Belinda",
+			"VEALE, Steve",
+			"SMITH, Aleisha",
+			"VAN ASPEREN, Heaven"
+		],
+		"B Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"WEARNE, Madeleine",
+			"CHIVERS, Ian"
+		],
+		"C Australian Labor Party": [
+			"MAXFIELD, Kate",
+			"ERMACORA, Jacinta",
+			"ANWARI, Sam",
+			"HANDRECK, Kaitlyn",
+			"MACKENZIE, Fiona"
+		],
+		"D Legalise Cannabis Victoria": [
+			"MITCHELL, Peter",
+			"DAVY, Alice"
+		],
+		"E Australian Democrats": [
+			"MEDDICK, Andy",
+			"KELLY, Peter"
+		],
+		"F Liberal / The Nationals": [
+			"MCARTHUR, Bev",
+			"WATT, Graham",
+			"LETTS, Robert",
+			"READ, Ellie",
+			"STEED, Melody"
+		],
+		"G Victorian Socialists": [
+			"NUNQUAM, Ben",
+			"HOUZET, Dominique"
+		],
+		"H Unnamed-1": [
+			"MORIARTY, Aleta",
+			"DENTON, Timothy"
+		],
+		"I Libertarian (formerly Liberal Democrats)": [
+			"BARKER, Paul",
+			"SCHIEMER, Phill"
+		],
+		"J Socialist Alliance": [
+			"GOODEN, Timothy",
+			"BULL, Sue",
+			"SMITH, Ross"
+		],
+		"K One Nation Victoria": [
+			"BURSON, Chris",
+			"WILLIAMS, Vaughan",
+			"OOSTHUIZEN, Jason"
+		],
+		"L Labour DLP": [
+			"DI BIASE, Costa",
+			"BOWDEN, Jennifer"
+		],
+		"M Shooters, Fishers and Farmers Party Victoria": [
+			"COLLYER, Ben",
+			"VICKERS, Ken"
+		],
+		"N Family First": [
+			"COLBERT, Dianne",
+			"MOLONEY, Anne",
+			"VEERAPPAGOUNDER, Senthil",
+			"THOMAS, Brendan William"
+		],
+		"O The Republican": [
+			"SAMA, Sindhu",
+			"KAUR, Akwinder"
+		],
+		"P Ungrouped": [
+			"FISHER, Eve"
+		]
+	},
+	"ungrouped": []
+}

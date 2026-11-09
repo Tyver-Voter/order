@@ -1,0 +1,71 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - North-Eastern Metropolitan - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A Legalise Cannabis Victoria": [
+			"DEL ROSARIO-MAKRIDIS, Gianni",
+			"FORREST, Thomas"
+		],
+		"B Victorian Socialists": [
+			"DEVIESSEUX, Lucas",
+			"MALTBY, Heather"
+		],
+		"C Australian Labor Party": [
+			"BATCHELOR, Ryan",
+			"GAN, James",
+			"JAVED, Rana",
+			"MACKINNON, Donna",
+			"SIMMONS, Maree"
+		],
+		"D Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"CORCORAN, Jack",
+			"TILLING, Heather",
+			"CLOW, William"
+		],
+		"E Labour DLP": [
+			"DE WIT, Cary",
+			"VAN DER ENDE, Brenton",
+			"PLAUCS, Peter",
+			"BERULDSEN, Ashley",
+			"HWANG, Jae Ho"
+		],
+		"F Family First": [
+			"VAN DER END, Alex",
+			"NGOH, Jeremy"
+		],
+		"G One Nation Victoria": [
+			"ADAMS, Natalie",
+			"GRATTON, Maxwell",
+			"AFFORD, Kane"
+		],
+		"H Liberal": [
+			"WELCH, Richard",
+			"DIAMANTE, Deirdre",
+			"PYRROS, John",
+			"LEIDLER, Sue",
+			"SOLLY, David"
+		],
+		"I Libertarian (formerly Liberal Democrats)": [
+			"FORD, Matt",
+			"SCHWAB, David"
+		],
+		"J Unnamed-1": [
+			"CHOW, Wai Man Raymond",
+			"CHOW, Yeung Yee Big Lily"
+		],
+		"K The Greens": [
+			"PUGLIELLI, Aiv",
+			"SUN, Sophia",
+			"GALLAGHER, Peter",
+			"HERSI, Mohamud",
+			"SHNOOKAL, Liezl"
+		],
+		"L Australian Democrats": [
+			"GREEN, Leonie",
+			"PARRIS, Ryan"
+		]
+	},
+	"ungrouped": []
+}

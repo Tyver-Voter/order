@@ -1,0 +1,80 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - Northern Metropolitan - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A Legalise Cannabis Victoria": [
+			"AICKIN, Riley",
+			"RIVER WIND, King"
+		],
+		"B Unnamed-1": [
+			"PEACH, Morgan",
+			"BYRNE, Peter"
+		],
+		"C Liberal": [
+			"MULHOLLAND, Evan",
+			"KHOURY, Bernadette",
+			"DHAREL, Shankar",
+			"GHANI, Usman",
+			"BRIERS, Mark"
+		],
+		"D The Greens": [
+			"GRAY-BARBERIO, Anasina",
+			"DRUMMOND, Sam",
+			"BURNETT, Tara",
+			"THOMAS, Hannah",
+			"SHEEHAN, Tim"
+		],
+		"E One Nation Victoria": [
+			"NICHOLSON, Mark",
+			"GALLUZZO, Anna Regina"
+		],
+		"F Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"JESSUP, Bert",
+			"COUCH, Beth",
+			"BUDGEON, Daryl"
+		],
+		"G Socialist Alliance": [
+			"LAWRENCE, Meredith",
+			"BEATON, Chloe",
+			"SAFFIN, Darren"
+		],
+		"H Labour DLP": [
+			"KAVANAGH, John",
+			"FUNG, James"
+		],
+		"I Australian Democrats": [
+			"ROWSE, Andrew",
+			"KHALILI-NAGHADEH, Sahar"
+		],
+		"J Unnamed-2": [
+			"HAWLI, Bassima",
+			"DRAPANIOTIS, Anastasia",
+			"DANDACH, Abir",
+			"GUNGORMUS, Selin"
+		],
+		"K Australian Labor Party": [
+			"WATT, Sheena",
+			"MCINTOSH, Tom",
+			"SHEIKH, Sainab",
+			"KOMARAGIRI, Praveen Kumar",
+			"CAIRNES, Dan"
+		],
+		"L Victorian Socialists": [
+			"HASSAN, Omar",
+			"BASSINI, Louisa",
+			"ROBERTSON, Catherine",
+			"GIBSON, Belle",
+			"BEIRAGHI, Bella"
+		],
+		"M Family First": [
+			"HIRMIZ, Imad",
+			"DEEMING, Andrew"
+		],
+		"N Ungrouped": [
+			"RAZOS, Peter"
+		]
+	},
+	"ungrouped": []
+}

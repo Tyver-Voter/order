@@ -1,0 +1,78 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - Western Metropolitan - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A Labour DLP": [
+			"ROYAL, Mark",
+			"SMITH, Arlene"
+		],
+		"B Legalise Cannabis Victoria": [
+			"MENTA, Xavier",
+			"BERSON, Chana"
+		],
+		"C Liberal": [
+			"CAMPBELL, Roshena",
+			"LUU, Trung",
+			"PATEL, Satish",
+			"NARAYANAN, Shwetha",
+			"MADUOK GENG, Daniel"
+		],
+		"D Victorian Socialists": [
+			"DEMANUELE, Anneke",
+			"JORQUERA, Jorge",
+			"SJODIN, Ella",
+			"KELLY, Lucy",
+			"MALONEY, Dean"
+		],
+		"E Australian Labor Party": [
+			"BLANDTHORN, Lizzie",
+			"STITT, Ingrid",
+			"LAM, Cuc",
+			"IBRAHIM, Sara",
+			"TRAVERS, Kim"
+		],
+		"F Australian Democrats": [
+			"THIERY-LAI, Chris",
+			"KEENAN, Nigel"
+		],
+		"G Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"BILIC, Dennis",
+			"DAVIES, Susan"
+		],
+		"H Family First": [
+			"DEEMING, Moira",
+			"NEIL, Chris",
+			"KULKARNI, Pavitra",
+			"EMERSON, Mark",
+			"IKIREZI, Francine"
+		],
+		"I The Greens": [
+			"HENDERSON, Brittney",
+			"MCRAE MCLEOD, Isabella",
+			"HEINS, Ebony",
+			"HARDEN, Niall",
+			"PATHANJALIMANOHARAR, Geetha"
+		],
+		"J The Republican": [
+			"SAINI, Raj",
+			"SHAH, Zalak",
+			"SARABJIT KAUR",
+			"KULKARNI, Shubhangi"
+		],
+		"K One Nation Victoria": [
+			"LOPEZ, Fiona",
+			"DOENSEN, Allan"
+		],
+		"L The West Party": [
+			"GARRA, Joe",
+			"RAMESH, Sahana",
+			"FARRELLY, Philip"
+		],
+		"M Ungrouped": [
+			"RAIZADA, Rakesh"
+		]
+	},
+	"ungrouped": []
+}

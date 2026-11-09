@@ -1,0 +1,63 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - Eastern Victoria - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A Victorian Socialists": [
+			"FORWARD, Max",
+			"EDWARDS, Dylan"
+		],
+		"B One Nation Victoria": [
+			"ESLER, Clay",
+			"DAVISON, Neil",
+			"DE WACHT, John"
+		],
+		"C Liberal / The Nationals": [
+			"HEATH, Renee",
+			"BATH, Melina",
+			"GREEN, Matt",
+			"BESANKO, Barry",
+			"CLARK, Richard"
+		],
+		"D Legalise Cannabis Victoria": [
+			"BURRIDGE, Danielle",
+			"STARBUCK, Devon"
+		],
+		"E Labour DLP": [
+			"WHITE, Khalif",
+			"HAMMAN, Daniel"
+		],
+		"F Animal Justice Party": [
+			"JEGES, Helen",
+			"WATERS, Philip Keith Geoffrey"
+		],
+		"G Australian Labor Party": [
+			"ERDOGAN, Enver",
+			"QUINTANA, Leticia",
+			"RYAN, Denise",
+			"ROGERS, Ian",
+			"MATHER, Ryan"
+		],
+		"H Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"SMITH, Reade",
+			"MELDGAARD, Inge"
+		],
+		"I Shooters, Fishers and Farmers Party Victoria": [
+			"BOURMAN, Jeff",
+			"MUIR, Kerrie-Anne"
+		],
+		"J Unnamed-1": [
+			"PITT, Ant",
+			"COXALL, Kate"
+		],
+		"K The Greens": [
+			"MORGAN, Mat",
+			"TURNBULL, Xero",
+			"JOBE, Oliver",
+			"CHAUHAN, Helen",
+			"WATT, Phillip"
+		]
+	},
+	"ungrouped": []
+}

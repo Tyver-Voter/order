@@ -1,0 +1,70 @@
+{
+	"title": "Victorian state election 2026 - Legislative Council - South-Eastern Metropolitan - below the line",
+	"minSaved": 5,
+	"minFormal": 5,
+	"groupsPerRow": 20,
+	"groups": {
+		"A One Nation Victoria": [
+			"HARKIN, Colleen",
+			"GODDARD, Geoff",
+			"PANETTA, Leo"
+		],
+		"B Christian Alliance Party - Reform AU": [
+			"WILDE, Milton",
+			"WILDE, Leanne"
+		],
+		"C Citizens Party": [
+			"COLLIE, Gary",
+			"BENNETT, Russell"
+		],
+		"D Australian Labor Party": [
+			"TARLAMIS, Lee",
+			"GALEA, Michael",
+			"RAM, Moti",
+			"PAK, Soheang",
+			"TRAN, Thanh Van"
+		],
+		"E Victorian Socialists": [
+			"CVETKOVA, Kelly",
+			"HOPPER, Keeley"
+		],
+		"F Legalise Cannabis Victoria": [
+			"PAYNE, Rachel",
+			"DENHAM, Gregory"
+		],
+		"G Affordable Housing Now \u2013 Sustainable Australia Party": [
+			"HOULT, Brandon",
+			"BRADY, Ann-Marie"
+		],
+		"H The Greens": [
+			"KIRWAN, Matthew",
+			"WILLOUGHBY, Louisa",
+			"VON HAGT, Samantha",
+			"KENT, Amelia",
+			"HARDY, Jayden"
+		],
+		"I Libertarian (formerly Liberal Democrats)": [
+			"LIMBRICK, David",
+			"VANDERMEER, Will"
+		],
+		"J Australian Democrats": [
+			"MCKENZIE, Heath",
+			"MOREL, Jacqui"
+		],
+		"K Liberal": [
+			"PEASE, Phillip",
+			"HERMANS, Ann-Marie",
+			"FENNER, Scott",
+			"FERNANDEZ, Marcus",
+			"VIPINKUMAR, Salini"
+		],
+		"L Labour DLP": [
+			"ZMEGAC, Andrew",
+			"MARSH, Scott"
+		],
+		"M Ungrouped": [
+			"ABEYSINGHE, Susantha"
+		]
+	},
+	"ungrouped": []
+}
