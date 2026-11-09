@@ -2,14 +2,14 @@
 	"title": "Victorian state election 2026 - Legislative Assembly - Carrum",
 	"groups": {},
 	"ungrouped": [
-		"PEGRUM, Zoe\nThe Greens",
-		"ABABNEH, Reema\nVictorian Socialists",
-		"MACKENZIE, Harley\nLegalise Cannabis Victoria",
-		"KILKENNY, Sonya\nAustralian Labor Party",
-		"SHELLEY, Jeff\nLiberal",
 		"MATHEWS, Joshua\nOne Nation Victoria",
+		"ABABNEH, Reema\nVictorian Socialists",
 		"MOORE, Carolyn\nAnimal Justice Party",
-		"SMITH, Trevor\nLibertarian (formerly Liberal Democrats)"
+		"MACKENZIE, Harley\nLegalise Cannabis Victoria",
+		"SMITH, Trevor\nLibertarian (formerly Liberal Democrats)",
+		"KILKENNY, Sonya\nAustralian Labor Party ",
+		"PEGRUM, Zoe\nThe Greens",
+		"SHELLEY, Jeff\nLiberal"
 	],
 	"minSaved": 7,
 	"minFormal": 8

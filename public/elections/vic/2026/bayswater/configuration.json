@@ -2,14 +2,14 @@
 	"title": "Victorian state election 2026 - Legislative Assembly - Bayswater",
 	"groups": {},
 	"ungrouped": [
-		"KENNEDY, Jess\nThe Greens",
-		"FERGUSON, Alec\nVictorian Socialists",
-		"BUXTON, Julie\nAustralian Labor Party",
-		"KITCHEN, David\nLiberal",
 		"BLEAKNEY, Kayte\nOne Nation Victoria",
-		"COOMBES, Gary\nFamily First",
+		"KENNEDY, Jess\nThe Greens",
+		"BUXTON, Julie\nAustralian Labor Party ",
+		"KITCHEN, David\nLiberal",
 		"CLARKE, Mathew",
-		"HUBBARD, Naomi\nLabour DLP"
+		"HUBBARD, Naomi\nLabour DLP",
+		"FERGUSON, Alec\nVictorian Socialists",
+		"COOMBES, Gary\nFamily First"
 	],
 	"minSaved": 7,
 	"minFormal": 8

@@ -2,12 +2,12 @@
 	"title": "Victorian state election 2026 - Legislative Assembly - Warrandyte",
 	"groups": {},
 	"ungrouped": [
-		"MURADIAN, Vanessa\nThe Greens",
 		"STANLEY, John\nVictorian Socialists",
-		"PATERSON, Rebecca\nAustralian Labor Party",
 		"WERNER, Nicole\nLiberal",
-		"BURNSIDE, Mark\nOne Nation Victoria",
-		"SCHWAB, Caleb\nLibertarian (formerly Liberal Democrats)"
+		"PATERSON, Rebecca\nAustralian Labor Party ",
+		"SCHWAB, Caleb\nLibertarian (formerly Liberal Democrats)",
+		"MURADIAN, Vanessa\nThe Greens",
+		"BURNSIDE, Mark\nOne Nation Victoria"
 	],
 	"minSaved": 5,
 	"minFormal": 6

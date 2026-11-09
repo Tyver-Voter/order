@@ -2,17 +2,17 @@
 	"title": "Victorian state election 2026 - Legislative Assembly - Niddrie",
 	"groups": {},
 	"ungrouped": [
-		"NGUYEN, Lana\nThe Greens",
-		"LAWS, Brendan\nVictorian Socialists",
-		"CARROLL, Ben\nAustralian Labor Party",
 		"SFAMENI, Sam",
-		"BYRNE, Samantha\nLiberal",
-		"TAVERNA, Jason\nOne Nation Victoria",
+		"CARROLL, Ben\nAustralian Labor Party ",
 		"THEODOROU, George\nFamily First",
+		"BYRNE, Samantha\nLiberal",
 		"METE, Domenic\nLabour DLP",
-		"PATRIKEOS, Brett\nThe West Party",
+		"LAWS, Brendan\nVictorian Socialists",
+		"HASELGROVE, Salomae\nAnimal Justice Party",
+		"TAVERNA, Jason\nOne Nation Victoria",
+		"NGUYEN, Lana\nThe Greens",
 		"CHITTEDI, Karthik Reddy\nThe Republican",
-		"HASELGROVE, Salomae\nAnimal Justice Party"
+		"PATRIKEOS, Brett\nThe West Party"
 	],
 	"minSaved": 10,
 	"minFormal": 11

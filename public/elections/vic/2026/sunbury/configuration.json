@@ -2,17 +2,17 @@
 	"title": "Victorian state election 2026 - Legislative Assembly - Sunbury",
 	"groups": {},
 	"ungrouped": [
-		"GRANGER-BROWN, Lauren\nThe Greens",
 		"BREMNER, Adam\nVictorian Socialists",
-		"BULL, Josh\nAustralian Labor Party",
-		"COTTOM, Simmone\nLiberal",
 		"DABROWSKI, Elita\nOne Nation Victoria",
-		"BATRES, Elmer\nFamily First",
-		"STAFFORD, John\nLabour DLP",
 		"VINE, Geoff\nThe West Party",
-		"BETHI, Bhasker Reddy\nThe Republican",
+		"COTTOM, Simmone\nLiberal",
+		"BULL, Josh\nAustralian Labor Party ",
 		"MOHR, Rohanna\nAnimal Justice Party",
-		"MEDCRAFT, Steve Jack"
+		"BETHI, Bhasker Reddy\nThe Republican",
+		"STAFFORD, John\nLabour DLP",
+		"MEDCRAFT, Steve Jack",
+		"GRANGER-BROWN, Lauren\nThe Greens",
+		"BATRES, Elmer\nFamily First"
 	],
 	"minSaved": 10,
 	"minFormal": 11

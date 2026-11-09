@@ -2,13 +2,13 @@
 	"title": "Victorian state election 2026 - Legislative Assembly - Monbulk",
 	"groups": {},
 	"ungrouped": [
-		"BLAIR, Merran\nThe Greens",
-		"BRIGGS, Noah\nVictorian Socialists",
-		"DE MARTINO, Daniela\nAustralian Labor Party",
 		"FITZMAURICE, Clare\nLiberal",
-		"DOWELL, Adrian\nOne Nation Victoria",
 		"MANNERS, Craig\nFamily First",
-		"WORMALD, Alyssa\nAnimal Justice Party"
+		"DE MARTINO, Daniela\nAustralian Labor Party ",
+		"DOWELL, Adrian\nOne Nation Victoria",
+		"BLAIR, Merran\nThe Greens",
+		"WORMALD, Alyssa\nAnimal Justice Party",
+		"BRIGGS, Noah\nVictorian Socialists"
 	],
 	"minSaved": 6,
 	"minFormal": 7
