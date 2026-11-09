@@ -2,6 +2,7 @@
 	"title": "Victorian state election 2026 - Legislative Council - Western Victoria - above the line",
 	"minSaved": 1,
 	"minFormal": 5,
+	"groupsPerRow": 20,
 	"candidatesPerColumn": 1,
 	"groups": {},
 	"ungrouped": [
@@ -19,7 +20,6 @@
 		"L Labour DLP",
 		"M Shooters, Fishers and Farmers Party Victoria",
 		"N Family First",
-		"O The Republican",
-		"P Ungrouped"
+		"O The Republican"
 	]
 }

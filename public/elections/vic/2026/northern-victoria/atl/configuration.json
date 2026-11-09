@@ -2,6 +2,7 @@
 	"title": "Victorian state election 2026 - Legislative Council - Northern Victoria - above the line",
 	"minSaved": 1,
 	"minFormal": 5,
+	"groupsPerRow": 20,
 	"candidatesPerColumn": 1,
 	"groups": {},
 	"ungrouped": [
@@ -17,7 +18,6 @@
 		"J Liberal / The Nationals",
 		"K The Greens",
 		"L Legalise Cannabis Victoria",
-		"M Victorian Socialists",
-		"N Ungrouped"
+		"M Victorian Socialists"
 	]
 }

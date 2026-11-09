@@ -65,10 +65,9 @@
 		"M Victorian Socialists": [
 			"LAMOND, Dorothy",
 			"TYLER, Rohan"
-		],
-		"N Ungrouped": [
-			"McHUGH, Nick"
 		]
 	},
-	"ungrouped": []
+	"ungrouped": [
+		"McHUGH, Nick"
+	]
 }

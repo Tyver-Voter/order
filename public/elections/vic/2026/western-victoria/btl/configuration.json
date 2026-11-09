@@ -76,10 +76,9 @@
 		"O The Republican": [
 			"SAMA, Sindhu",
 			"KAUR, Akwinder"
-		],
-		"P Ungrouped": [
-			"FISHER, Eve"
 		]
 	},
-	"ungrouped": []
+	"ungrouped": [
+		"FISHER, Eve"
+	]
 }

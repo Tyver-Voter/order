@@ -2,6 +2,7 @@
 	"title": "Victorian state election 2026 - Legislative Council - Northern Metropolitan - above the line",
 	"minSaved": 1,
 	"minFormal": 5,
+	"groupsPerRow": 20,
 	"candidatesPerColumn": 1,
 	"groups": {},
 	"ungrouped": [
@@ -17,7 +18,6 @@
 		"J Unnamed-2",
 		"K Australian Labor Party",
 		"L Victorian Socialists",
-		"M Family First",
-		"N Ungrouped"
+		"M Family First"
 	]
 }

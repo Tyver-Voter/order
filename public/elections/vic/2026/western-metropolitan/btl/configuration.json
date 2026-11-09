@@ -69,10 +69,9 @@
 			"GARRA, Joe",
 			"RAMESH, Sahana",
 			"FARRELLY, Philip"
-		],
-		"M Ungrouped": [
-			"RAIZADA, Rakesh"
 		]
 	},
-	"ungrouped": []
+	"ungrouped": [
+		"RAIZADA, Rakesh"
+	]
 }
