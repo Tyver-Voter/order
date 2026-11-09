@@ -1,7 +1,7 @@
 import { useSortable } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
 
-function SortableCandidate({ id }) {
+function SortableCandidate({ id, preference }) {
 	const {
 		attributes,
 		isDragging,
@@ -34,7 +34,7 @@ function SortableCandidate({ id }) {
 			{...attributes}
 			{...listeners}
 		>
-			{id}
+			<strong>{preference}</strong> {id}
 		</div>
 	);
 }

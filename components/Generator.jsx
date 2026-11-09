@@ -185,14 +185,14 @@ function Generator({ configuration }) {
 					<SortableGroup key={groupId} id={groupId} items={candidateGroups[droppableGroupId]}>
 						{
 							candidateGroups[droppableGroupId].map((candidateId) => {
-								return <SortableCandidate key={candidateId} id={candidateId} />;
+								return <SortableCandidate key={candidateId} id={candidateId} preference={preferences[candidateId]} />;
 							})
 						}
 					</SortableGroup>
 				);
 			} else {
 				return (
-					<SortableCandidate key={groupId} id={groupId} />
+					<SortableCandidate key={groupId} id={groupId} preference={preferences[groupId]} />
 				);
 			}
 		});
